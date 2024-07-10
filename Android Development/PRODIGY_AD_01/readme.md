@@ -1,10 +1,9 @@
 
 # Calculator App
 
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/ahadrazarc/Prodigy-InfoTech/assets/174721357/88e59c15-27fc-4c15-aab6-511ad9ef3055" alt="App Preview 1" width="300" />
-    <img src="https://github.com/ahadrazarc/Prodigy-InfoTech/assets/174721357/8ed81c30-aefe-40d2-baaa-3610e3faffd0" alt="App Preview 2" width="300" />
-</div>
+
+https://github.com/ahadrazarc/Prodigy-InfoTech/assets/174721357/6155c2bc-df90-4eb3-9346-89c443633ce5
+
 
 
 ## Description
